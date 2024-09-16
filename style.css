@@ -50,7 +50,7 @@ cabecalho{
     width: 24px
     }
     
-    .estudante--div{
+    .estudante-div{
     text-align: center;
     }
     
@@ -64,3 +64,11 @@ cabecalho{
     grid-template-columns: 20% 20% 20% 20% 20%;
     }
 
+    .rodape{
+    background-color: black;
+ text-align: center;
+}
+  rodape-imagem{  
+    height: 60px;
+    padding: 12px 0;
+  }
